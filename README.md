@@ -1,1 +1,2 @@
-# C-107
+# Python_class
+solution C-100
